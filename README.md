@@ -44,7 +44,7 @@ Please follw the instructions to run the Jupyter notebook (notebook/hmmlearn_tim
     to login with a token:
         http://0.0.0.0:8888/?token=840d9f66aaa7bddb150f6c8cc68b69089041cb2779672270
 
-[10] Open an web browser in the local machine and copy/paste the URL (http://0.0.0.0:8888/?token=840d9f66aaa7bddb150f6c8cc68b69089041cb2779672270).
+[10] Open a web browser in the local machine and copy/paste the URL (http://0.0.0.0:8888/?token=840d9f66aaa7bddb150f6c8cc68b69089041cb2779672270).
 
 [11] Open the hmmlearn_time-series.ipynb file.
 
