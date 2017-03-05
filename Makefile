@@ -43,7 +43,7 @@ ifeq ($(INTERACTIVE), 1)
 	DOCKER_FLAGS += -t
 endif
 
-UBUNTU_IMAGE := scikit-dev:01
+UBUNTU_IMAGE := hmmlearn-dev:01
 DOCKER_RUN_DOCKER := $(DOCKER_FLAGS) "$(UBUNTU_IMAGE)"
 
 default: install_theano
